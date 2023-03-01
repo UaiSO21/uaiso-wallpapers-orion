@@ -11,6 +11,7 @@ depends=('git')
 provides=("$pkgname")
 # conflicts=('')
 source=("git+${url}.git")
+md5sums=('SKIP')
 
 package() {
     cd ${pkgname}
