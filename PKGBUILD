@@ -3,7 +3,7 @@
 pkgname=uaiso-wallpapers-orion
 pkgver=$(date +%y.%m.%d)
 pkgrel=$(date +%H%M)
-pkgdesc="Package Base for UaiSO21"
+pkgdesc="Package Wallpaper for UaiSO Evolve Orion"
 arch=('any')
 url="https://github.com/UaiSO21/$pkgname"
 license=('GPL3')
