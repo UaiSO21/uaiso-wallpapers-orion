@@ -13,6 +13,7 @@ provides=("$pkgname")
 source=("git+${url}.git")
 md5sums=('SKIP')
 
+
 package() {
     cd ${pkgname}
     install -d ${pkgdir}/usr/share/wallpapers/orion
